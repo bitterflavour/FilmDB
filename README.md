@@ -1,1 +1,1 @@
-Web Application made in Django
+Web Application made in Django +SqLite
